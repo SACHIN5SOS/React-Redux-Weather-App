@@ -1,5 +1,5 @@
 
-### A Siple React-Redux Application which gives weather forecast of 5 days of Indian cities only. 
+### A Simple React-Redux Application which gives weather forecast of 5 days of Indian cities only. 
 
 There are two methods for getting started with this repo.
 
